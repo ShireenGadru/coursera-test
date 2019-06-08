@@ -24,6 +24,7 @@ h1 {
 }
 .chicken, .beef, .sushi{
   float: right;
+  padding-top: 5px;
   border: 1px solid black;
  
   width: 200px;
