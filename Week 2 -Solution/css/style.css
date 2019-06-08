@@ -3,9 +3,10 @@
   font-family: sans-serif;
 }
 h1 {
- margin:15px;
+ margin:25px;
+ margin-bottom: 50px;
    position: relative;
-  left: 42%;
+  left: 43%;
   
 }
 .info {
@@ -144,3 +145,4 @@ h1 {
     margin-top: 0px;
   }
 }
+
